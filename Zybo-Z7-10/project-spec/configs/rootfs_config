@@ -4127,6 +4127,7 @@ CONFIG_gpioutil=y
 # CONFIG_kmsdemo is not set
 # CONFIG_peekpoke is not set
 CONFIG_pwmdemo=y
+CONFIG_uioctl=y
 
 #
 # user packages 
